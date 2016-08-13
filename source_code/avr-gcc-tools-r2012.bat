@@ -1,0 +1,1 @@
+%windir%\System32\cmd.exe /k V:\MSTdev\WinAVR\avr-tools-r2012\set-path7729.bat

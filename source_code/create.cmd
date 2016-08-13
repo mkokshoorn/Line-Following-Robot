@@ -1,0 +1,1 @@
+avr-gcc -g -Wall -mmcu=atmega8 -std=c99 -Os -I. main.c led.c adc.c pwm.c motor.c  -o output.elf

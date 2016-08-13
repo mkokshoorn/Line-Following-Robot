@@ -1,0 +1,14 @@
+What to do ?
+
+1) open avr-gcc-tools-r2012
+2) type 'goodluck' to complile->link-> and load
+
+creating a new module ?
+
+1) open 'goodluck.cmd' with a text editor
+2) add the new .c file in the list of file on the line:
+ 
+	avr-gcc -g -Wall -mmcu=atmega8 -std=c99 -Os -I. main.c ______ led.c -o output.elf
+
+where ____ is the new .c file
+3)continue as normal.
