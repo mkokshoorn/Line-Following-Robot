@@ -1,5 +1,5 @@
 # Line_Following_Robot
-Embedded systems univeristy project to develop a line following robot based on an Atmega8 microcontroller and grayscale optical sensors. 
+Embedded systems university project to develop a line following robot based on an Atmega8 microcontroller and grayscale optical sensors. 
 
 For a complete description of the project, please refer to Report.pdf.
 
